@@ -46,6 +46,6 @@
 }
 
 .fade {
-    height: 20vh;
+    height: 30vh;
     background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
 }
