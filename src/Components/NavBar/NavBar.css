@@ -1,0 +1,23 @@
+
+.Logo {
+    left: 25px;
+    position: fixed;
+    width: 80px;
+}
+
+.Avatar {
+    right: 25px;
+    position: fixed;
+    width: 30px;
+}
+
+.NavBar {
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+}
